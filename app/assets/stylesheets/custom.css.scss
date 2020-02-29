@@ -33,11 +33,22 @@ $navbar-default-bg: black;
     margin-bottom: 30px;
     letter-spacing: -1px;
     font-weight: bold;
+    text-shadow: 2px 2px black
 }
 
 .btn-xlarge {
     font-size: 1.7em;
     background-color: black; 
+}
+
+.article-actions {
+    border-top: 1px solid #eaeaea;
+    padding-top: 5px;
+    float: right;
+}
+
+.description {
+    margin-top: 0px;
 }
 
 footer {
