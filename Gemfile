@@ -7,6 +7,10 @@ ruby '2.6.3'
 gem 'rails', '~> 5.2.0'
 # add secure password
 gem 'bcrypt', '~> 3.1.7'
+
+# add pagination
+gem 'will_paginate', '~> 3.1.5'
+gem 'bootstrap-will_paginate', '~> 1.0.0'
 # Use sqlite3 as the database for Active Record
 gem 'jquery-rails'
 gem 'sqlite3'
