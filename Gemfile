@@ -11,6 +11,9 @@ gem 'bcrypt', '~> 3.1.7'
 # add pagination
 gem 'will_paginate', '~> 3.1.5'
 gem 'bootstrap-will_paginate', '~> 1.0.0'
+
+#add support for assert_template
+gem 'rails-controller-testing'
 # Use sqlite3 as the database for Active Record
 gem 'jquery-rails'
 gem 'sqlite3'
